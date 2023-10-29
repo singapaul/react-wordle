@@ -169,6 +169,7 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 - [Anidal](https://anidal-abrarhayat.web.app/): Animals
 - [Birdle - Emojis](https://birdle.dev): Bird emojis
 - [Birdle](https://www.creek-birdle.com/): Birds
+- [Bluedle](https://bluedle.games/): Bluey based Wordle
 - [Buildly](https://buildly.procurepro.co/): Construction themed
 - [Canuckle](https://canuckle.net/): Canadian themed Wordle
 - [Crosswordle](https://crosswordle.mekoppe.com/): Crossword mashup
